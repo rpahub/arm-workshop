@@ -7,7 +7,7 @@
         {
             "type": "Microsoft.Storage/storageAccounts",
             "apiVersion": "2015-06-15",
-            "name": "rpastorage",
+            "name": "bprpastorage",
             "location": "[resourceGroup().location]",
             "tags": {
                 "displayName": "bprpastorage"
