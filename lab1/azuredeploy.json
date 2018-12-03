@@ -10,7 +10,7 @@
             "name": "rpastorage",
             "location": "[resourceGroup().location]",
             "tags": {
-                "displayName": "rpastorage"
+                "displayName": "bprpastorage"
             },
             "properties": {
                 "accountType": "Standard_LRS"
